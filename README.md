@@ -1,2 +1,2 @@
 # my-resume
-Nodier's Resume - this will be my first online resume, through a Capstone Project. I'm limited to using only HTML code, and will continue to update and improve the website as I learn more about CSS and JavaScript.
+Nodier's Resume; My first Capstone Project is to create my online resume, limited to HTML code. The website will evolve as I continue to learn CSS and eventually JavaScript.
